@@ -1,4 +1,5 @@
-![GameLogo](https://media.discordapp.net/attachments/668823462479134722/1093321120406589530/warforge-logo-white.png?width=2022&height=558)
+![GameLogo](https://fontmeme.com/temporary/418693c7a941da7ce942a201811188e7.png)
+
 Real Time Strateg fantasy game, which was inpired by Warcraft and StarCraft. Game only stated a development process, btw. only 1 developer in team.
 Also, I`ll make this project like Course Project in my univercity.
 
