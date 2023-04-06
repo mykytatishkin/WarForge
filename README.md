@@ -1,5 +1,10 @@
 ![GameLogo](https://fontmeme.com/temporary/418693c7a941da7ce942a201811188e7.png)
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 Real Time Strateg fantasy game, which was inpired by Warcraft and StarCraft. Game only stated a development process, btw. only 1 developer in team.
 Also, I`ll make this project like Course Project in my univercity.
 
