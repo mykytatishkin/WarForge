@@ -1,4 +1,4 @@
-![GameLogo](https://fontmeme.com/temporary/418693c7a941da7ce942a201811188e7.png)
+![GameLogo]([https://fontmeme.com/temporary/418693c7a941da7ce942a201811188e7.png](https://media.discordapp.net/attachments/668823462479134722/1093579639865233448/logo.png))
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
