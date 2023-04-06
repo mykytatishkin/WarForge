@@ -5,6 +5,10 @@ Also, I`ll make this project like Course Project in my univercity.
 
 # Dev Logs
 
+## 6.04.2023 - 7.04.2023
+First variant of UI, free from internet
+![UI](https://media.discordapp.net/attachments/668823462479134722/1093547269954994306/UI_Final_Line.png?width=1298&height=253)
+![Cursor](https://xgm.guru/files/100/245618/Cursor.png)
 ## 5.04.2023 - 6.04.2023 [First day]
 I found free Assets in Unity Asset Store.
 - Ork model
