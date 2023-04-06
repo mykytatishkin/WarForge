@@ -61,7 +61,7 @@
     <Compile Include="Assets/Scripts/GestureClick.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets/Supply/Readme.txt" />
+    <None Include="Assets/Buildings/Supply/Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
