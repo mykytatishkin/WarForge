@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29013d58f8a844609004321ed91f1c9, type: 3}
+  m_Name: WarriorHouse
+  m_EditorClassIdentifier: 
+  BuildingView: {fileID: 9073932566139226341, guid: 002ce0a9baa464b02bd1bdd8c9ad1017, type: 3}
+  Name: WarriorHouse
+  Icon: {fileID: 21300000, guid: d0da1286898514e83826371944b5a1cb, type: 3}
+  Price: 100
